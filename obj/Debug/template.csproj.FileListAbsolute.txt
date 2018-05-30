@@ -1,0 +1,18 @@
+/Users/ijina/Downloads/template_INFOGR2018 2/bin/Debug/template.exe.config
+/Users/ijina/Downloads/template_INFOGR2018 2/bin/Debug/template.exe
+/Users/ijina/Downloads/template_INFOGR2018 2/bin/Debug/template.pdb
+/Users/ijina/Downloads/template_INFOGR2018 2/bin/Debug/OpenTK.dll
+/Users/ijina/Downloads/template_INFOGR2018 2/bin/Debug/OpenTK.dll.config
+/Users/ijina/Downloads/template_INFOGR2018 2/obj/Debug/template.csprojResolveAssemblyReference.cache
+/Users/ijina/Downloads/template_INFOGR2018 2/obj/Debug/template.csproj.CoreCompileInputs.cache
+/Users/ijina/Downloads/template_INFOGR2018 2/obj/Debug/template.exe
+/Users/ijina/Downloads/template_INFOGR2018 2/obj/Debug/template.pdb
+/Users/ijina/Desktop/GR/INFOGR_Assignment2/obj/Debug/template.csprojResolveAssemblyReference.cache
+/Users/ijina/Desktop/GR/INFOGR_Assignment2/obj/Debug/template.csproj.CoreCompileInputs.cache
+/Users/ijina/Desktop/GR/INFOGR_Assignment2/obj/Debug/template.exe
+/Users/ijina/Desktop/GR/INFOGR_Assignment2/obj/Debug/template.pdb
+/Users/ijina/Desktop/GR/INFOGR_Assignment2/bin/Debug/template.exe.config
+/Users/ijina/Desktop/GR/INFOGR_Assignment2/bin/Debug/template.exe
+/Users/ijina/Desktop/GR/INFOGR_Assignment2/bin/Debug/template.pdb
+/Users/ijina/Desktop/GR/INFOGR_Assignment2/bin/Debug/OpenTK.dll
+/Users/ijina/Desktop/GR/INFOGR_Assignment2/bin/Debug/OpenTK.dll.config
